@@ -1,6 +1,5 @@
 ## Hi there, I'm Devarshi 👋
-Master's student in Intelligent Interactive Systems at Universität Bielefeld, originally from India.
-I build ML and NLP systems — and care about getting them deployed.
+Master's student in Intelligent Interactive Systems at Universität Bielefeld, with a B.Tech in AI and Data Science from Jabalpur Engineering College, India. Background in machine learning, NLP, data pipelines, and deployment. I enjoy building intelligent systems and turning ideas into something that actually runs in production.
 
 ---
 
