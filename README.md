@@ -30,5 +30,5 @@ Python, PyTorch, DINOv2, LangChain, ChromaDB, Claude API, Whisper, Wav2Vec 2.0, 
 
 ## Get in touch
 
-devarshidixit01@gmail.com &nbsp;
+devarshidixit01@gmail.com <br/>
 [LinkedIn](https://www.linkedin.com/in/devarshi-dixit010/)
