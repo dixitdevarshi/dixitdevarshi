@@ -12,13 +12,13 @@ Over the past year I've built and shipped systems across computer vision, LLM en
 
 ## Projects
 
-**Visual Anomaly Detection — DINOv2 + PatchCore**
+**Visual Anomaly Detection - DINOv2 + PatchCore**
 Unsupervised defect detection on industrial product images. No defect labels needed during training. 0.9781 mean AUROC across all 15 MVTec AD categories. Spatial localization with patch-level heatmaps.
 
-**PaperMind — Multilingual Document Intelligence**
+**PaperMind - Multilingual Document Intelligence**
 LangChain agentic RAG system with tool orchestration, conversation memory, and retrieval across 50+ languages. Built a custom evaluation framework measuring faithfulness (0.88) and context precision (1.0).
 
-**RoboJEC — Voice AI System (IEEE ICCCMLA 2025)**
+**RoboJEC - Voice AI System (IEEE ICCCMLA 2025)**
 Real-time voice AI combining Whisper ASR, Claude dialogue generation, and speech synthesis. Cut transcription latency from 20-30s to 2-4s. 95.5% response relevance, 420ms response time.
 
 **Deutsche Bahn Delay Risk Estimator**
@@ -30,5 +30,5 @@ Python, PyTorch, DINOv2, LangChain, ChromaDB, Claude API, Whisper, Wav2Vec 2.0, 
 
 ## Get in touch
 
-devarshidixit01@gmail.com
+devarshidixit01@gmail.com &nbsp;
 [LinkedIn](https://www.linkedin.com/in/devarshi-dixit010/)
