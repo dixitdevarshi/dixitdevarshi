@@ -1,38 +1,35 @@
 # Hi there, I'm Devarshi 👋
 
-Master's student in Intelligent Interactive Systems at Universität Bielefeld,
-with a B.Tech in AI and Data Science from Jabalpur Engineering College, India.
+Master's student in Intelligent Interactive Systems at Universität Bielefeld, with a B.Tech in AI and Data Science from Jabalpur Engineering College, India.
 
-I build intelligent systems - from data pipelines and model training to LLM
-engineering and production deployment. Passionate about RAG systems, multimodal
-AI, and making models that actually work outside of notebooks.
+Over the past year I've built and shipped systems across computer vision, LLM engineering, speech AI, and ML pipelines. I care about making things that actually work in production, not just notebooks. Published at IEEE ICCCMLA 2025.
 
-## About Me
+## A bit about me
 
-- Published at IEEE ICCCMLA 2025 on conversational AI
-- Interned at DRDO's AI lab on speech recognition with Wav2Vec 2.0
-- Experience building end-to-end ML pipelines with Docker, GitHub Actions, and AWS
+- Currently doing my M.Sc. at Universität Bielefeld, focused on AI systems, NLP, and human-computer interaction
+- Interned at DRDO's AI lab working on speech recognition with Wav2Vec 2.0
+- Published research on conversational AI at IEEE ICCCMLA 2025
+- Looking for Werkstudent or internship roles in AI and ML engineering in Germany
 
 ## Projects
 
-**PaperMind - Multilingual Document Intelligence**
-PDF and image ingestion, multilingual embeddings, tool routing, and
-Claude-powered grounded answers - Context Precision 1.0 across 25 QA pairs
+**Visual Anomaly Detection — DINOv2 + PatchCore**
+Unsupervised defect detection on industrial product images. No defect labels needed during training. 0.9781 mean AUROC across all 15 MVTec AD categories. Spatial localization with patch-level heatmaps.
 
-**Conversational AI System - IEEE ICCCMLA 2025**
-Whisper ASR + Claude-3 Haiku + real-time sentiment analysis -
-420ms response, 95.5% relevance
+**PaperMind — Multilingual Document Intelligence**
+LangChain agentic RAG system with tool orchestration, conversation memory, and retrieval across 50+ languages. Built a custom evaluation framework measuring faithfulness (0.88) and context precision (1.0).
+
+**RoboJEC — Voice AI System (IEEE ICCCMLA 2025)**
+Real-time voice AI combining Whisper ASR, Claude dialogue generation, and speech synthesis. Cut transcription latency from 20-30s to 2-4s. 95.5% response relevance, 420ms response time.
 
 **Deutsche Bahn Delay Risk Estimator**
-LightGBM on 2M+ records - deployed on AWS EC2 with Docker and GitHub Actions CI/CD
-
-**Telecom Churn Prediction**
-End-to-end ML pipeline with SHAP-driven retention playbook and Flask deployment
+LightGBM on 2M+ transport records. Deployed as Flask REST API on AWS EC2 with Docker and GitHub Actions CI/CD. ROC-AUC 0.7655.
 
 ## Tech Stack
 
-- **Languages:** Python, SQL
-- **ML/AI:** Scikit-learn, PyTorch, Hugging Face Transformers, SHAP
-- **LLMs/NLP:** Whisper, Wav2Vec 2.0, LangChain, ChromaDB, RAG pipelines
-- **Deployment:** Docker, AWS (EC2, ECR), GitHub Actions, FastAPI, Flask
-- **Data:** Pandas, NumPy, Power BI
+Python, PyTorch, DINOv2, LangChain, ChromaDB, Claude API, Whisper, Wav2Vec 2.0, LightGBM, XGBoost, SHAP, FastAPI, Flask, Docker, AWS EC2, GitHub Actions, Streamlit, scikit-learn, HuggingFace Transformers
+
+## Get in touch
+
+devarshidixit01@gmail.com
+[LinkedIn](https://www.linkedin.com/in/devarshi-dixit010/)
