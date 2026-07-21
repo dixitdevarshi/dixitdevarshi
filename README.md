@@ -9,7 +9,6 @@ Over the past year I've built and shipped systems across computer vision, LLM en
 - Currently doing my M.Sc. at Universität Bielefeld, focused on AI systems, NLP, and human-computer interaction
 - Interned at DRDO's AI lab working on speech recognition with Wav2Vec 2.0
 - Published research on conversational AI at IEEE ICCCMLA 2025
-- Looking for Werkstudent or internship roles in AI and ML engineering in Germany
 
 ## Projects
 
