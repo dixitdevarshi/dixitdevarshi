@@ -2,7 +2,7 @@
 
 Master's student in Intelligent Interactive Systems at Universität Bielefeld, with a B.Tech in AI and Data Science from Jabalpur Engineering College, India.
 
-Over the past year I've built and shipped systems across computer vision, LLM engineering, speech AI, and ML pipelines. I care about making things that actually work in production, not just notebooks. Published at IEEE ICCCMLA 2025.
+Over the past year I've built and shipped systems across computer vision, LLM engineering, speech AI, and ML pipelines. I care about making things that actually work end to end, not just in a notebook. Published at IEEE ICCCMLA 2025.
 
 ## A bit about me
 
@@ -11,6 +11,9 @@ Over the past year I've built and shipped systems across computer vision, LLM en
 - Published research on conversational AI at IEEE ICCCMLA 2025
 
 ## Projects
+
+**AI Ticket Triage System - n8n + FastAPI + Claude + PostgreSQL**
+Automated support ticket pipeline: a real Gmail inbox is monitored via n8n, tickets are classified by topic and urgency independently, and attachments are routed intelligently, product photos through a self-trained anomaly detection model, screenshots through Claude's vision, PDFs extracted directly or OCR'd if scanned. Includes a confidence-based human review and correction loop, monitored with Prometheus and Grafana. 94% category accuracy and 84% urgency accuracy on a 50-ticket evaluation set, with a documented and fixed urgency-estimation bias.
 
 **Visual Anomaly Detection - DINOv2 + PatchCore**
 Unsupervised defect detection on industrial product images. No defect labels needed during training. 0.9781 mean AUROC across all 15 MVTec AD categories. Spatial localization with patch-level heatmaps.
@@ -26,7 +29,7 @@ LightGBM on 2M+ transport records. Deployed as Flask REST API on AWS EC2 with Do
 
 ## Tech Stack
 
-Python, PyTorch, DINOv2, LangChain, ChromaDB, Claude API, Whisper, Wav2Vec 2.0, LightGBM, XGBoost, SHAP, FastAPI, Flask, Docker, AWS EC2, GitHub Actions, Streamlit, scikit-learn, HuggingFace Transformers
+Python, PyTorch, DINOv2, LangChain, ChromaDB, Claude API, Whisper, Wav2Vec 2.0, LightGBM, XGBoost, SHAP, FastAPI, Flask, PostgreSQL, SQLAlchemy, n8n, Docker, Prometheus, Grafana, AWS EC2, GitHub Actions, Streamlit, scikit-learn, HuggingFace Transformers
 
 ## Get in touch
 
