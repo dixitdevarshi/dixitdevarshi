@@ -10,23 +10,23 @@ I build things end to end, from training and evaluation to deployment and monito
 
 **[Visual Anomaly Detection with DINOv2 and PatchCore](https://github.com/dixitdevarshi/visual-anomaly-detection)**
 
-Unsupervised defect detection on industrial product images — no defect labels needed during training. DINOv2 extracts patch-level features, PatchCore scores anomalies via memory-bank nearest-neighbor distance, and patch scores are upsampled into spatial heatmaps showing exactly where the defect is. 0.9781 mean AUROC across all 15 MVTec AD categories. Full-stack deployment with React frontend, FastAPI backend, MLflow experiment tracking, Docker Compose, 13 pytest unit tests, and GitHub Actions CI.
+Unsupervised defect detection on industrial product images; no defect labels needed during training. DINOv2 extracts patch-level features, PatchCore scores anomalies via memory-bank nearest-neighbor distance, and patch scores are upsampled into spatial heatmaps showing exactly where the defect is. 0.9781 mean AUROC across all 15 MVTec AD categories. Full-stack deployment with React frontend, FastAPI backend, MLflow experiment tracking, Docker Compose, 13 pytest unit tests, and GitHub Actions CI.
 
 ---
 
 **[AI Ticket Triage Automation System](https://github.com/dixitdevarshi/ai-ticket-triage)**
 
-Automated support ticket pipeline where n8n monitors a live Gmail inbox, FastAPI classifies topic and urgency independently via the Claude API, and a React dashboard with an MCP server handles human review and correction. Attachments are routed intelligently — product photos through a self-trained PatchCore anomaly detection model, PDFs through extraction or Tesseract OCR, links through VirusTotal. Diagnosed and fixed a systematic urgency-estimation bias, improving urgency accuracy from 64% to 84%. Monitored with Prometheus and Grafana.
+Automated support ticket pipeline where n8n monitors a live Gmail inbox, FastAPI classifies topic and urgency independently via the Claude API, and a React dashboard with an MCP server handles human review and correction. Attachments are routed intelligently; product photos through a self-trained PatchCore anomaly detection model, PDFs through extraction or Tesseract OCR, links through VirusTotal. Diagnosed and fixed a systematic urgency-estimation bias, improving urgency accuracy from 64% to 84%. Monitored with Prometheus and Grafana.
 
 ---
 
-**[PaperMind — Multilingual Document Intelligence](https://github.com/dixitdevarshi/PaperMind)**
+**[PaperMind - Multilingual Document Intelligence](https://github.com/dixitdevarshi/PaperMind)**
 
 LangChain agentic RAG system with tool orchestration, conversation memory, and multilingual retrieval across 50+ languages. Built a custom evaluation framework measuring faithfulness (0.88), context precision (1.0), and context recall (0.88) on a multilingual ground-truth benchmark. Extended with a GraphRAG layer using spaCy NER and NetworkX. FastAPI backend instrumented with Prometheus and Grafana for p95 latency and throughput monitoring.
 
 ---
 
-**[RoboJEC — Voice AI System](https://github.com/dixitdevarshi/RoboJEC)**
+**[RoboJEC - Voice AI System](https://github.com/dixitdevarshi/RoboJEC)**
 
 Real-time voice AI combining Whisper ASR, Claude dialogue generation, and speech synthesis for end-to-end conversational interaction. Cut transcription latency from 20-30s down to 2-4s through pipeline optimization and faster-whisper integration. Built a custom conversation quality evaluation framework measuring response relevance (95.5%) and response time (420ms). Published at IEEE ICCCMLA 2025.
 
