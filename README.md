@@ -1,12 +1,41 @@
-# Devarshi Dixit
+<h1 align="left">Devarshi Dixit</h1>
 
-**AI / ML Engineer · M.Sc. Intelligent Interactive Systems**
+<p>
+  <strong>AI / ML Engineer · M.Sc. Intelligent Interactive Systems</strong>
+</p>
 
-I build and evaluate AI systems with a focus on **reliability, measurable performance, and practical deployment**.
+<p>
+  I build and evaluate AI systems with a focus on reliability,
+  measurable performance, and practical deployment.
+</p>
 
-Currently pursuing my M.Sc. at Universität Bielefeld, with a B.Tech in AI and Data Science from Jabalpur Engineering College. My work spans computer vision, LLM systems, speech recognition, RAG, evaluation, and ML engineering.
+<p>
+  <a href="https://devarshi-portfolio-sepia.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/devarshi-dixit010/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:devarshidixit01@gmail.com">Email</a>
+</p>
 
-[Portfolio](https://devarshi-portfolio-sepia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devarshi-dixit010/) · [Email](mailto:devarshidixit01@gmail.com)
+<br>
+
+<marquee behavior="scroll" direction="left" scrollamount="4">
+  PYTHON &nbsp;·&nbsp;
+  PYTORCH &nbsp;·&nbsp;
+  COMPUTER VISION &nbsp;·&nbsp;
+  LLM SYSTEMS &nbsp;·&nbsp;
+  RAG &nbsp;·&nbsp;
+  ASR &nbsp;·&nbsp;
+  EVALUATION &nbsp;·&nbsp;
+  FASTAPI &nbsp;·&nbsp;
+  MLOPS &nbsp;·&nbsp;
+  DOCKER &nbsp;·&nbsp;
+  POSTGRESQL &nbsp;·&nbsp;
+  PROMETHEUS &nbsp;·&nbsp;
+  GRAFANA
+</marquee>
+
+<br>
 
 ---
 
@@ -14,7 +43,7 @@ Currently pursuing my M.Sc. at Universität Bielefeld, with a B.Tech in AI and D
 
 ### [Visual Anomaly Detection](https://github.com/dixitdevarshi/visual-anomaly-detection)
 
-**DINOv2 · PatchCore · PyTorch · FastAPI · MLflow · Docker**
+`DINOv2` `PatchCore` `PyTorch` `FastAPI` `MLflow` `Docker`
 
 Unsupervised industrial defect detection trained entirely on normal images. DINOv2 extracts patch-level representations and PatchCore performs memory-bank nearest-neighbor anomaly scoring, with spatial heatmaps for defect localization.
 
@@ -26,7 +55,7 @@ Extended into a full-stack system with a React frontend, FastAPI inference servi
 
 ### [AI Ticket Triage](https://github.com/dixitdevarshi/ai-ticket-triage)
 
-**Claude API · FastAPI · n8n · PostgreSQL · MCP · Prometheus · Grafana**
+`Claude API` `FastAPI` `n8n` `PostgreSQL` `MCP` `Prometheus` `Grafana`
 
 End-to-end support automation pipeline that monitors Gmail, independently classifies ticket category and urgency, routes attachments through specialized processing, and sends uncertain predictions to a human-review workflow.
 
@@ -38,17 +67,17 @@ The system also integrates PatchCore for product-image anomaly detection, PDF ex
 
 ### [PaperMind](https://github.com/dixitdevarshi/PaperMind)
 
-**RAG · LangChain · NLP · FastAPI · Prometheus · Grafana**
+`RAG` `LangChain` `NLP` `FastAPI` `Prometheus` `Grafana`
 
 Multilingual document-intelligence system combining retrieval, tool orchestration, conversation memory, and document analysis across 50+ languages.
 
 Built a custom evaluation framework using a multilingual ground-truth benchmark:
 
 | Metric | Score |
-| --- | ---: |
-| Faithfulness | 0.88 |
-| Context Precision | 1.00 |
-| Context Recall | 0.88 |
+| :--- | ---: |
+| Faithfulness | **0.88** |
+| Context Precision | **1.00** |
+| Context Recall | **0.88** |
 
 Extended the retrieval system with a GraphRAG layer using spaCy NER and NetworkX, with monitoring for latency and throughput.
 
@@ -56,11 +85,11 @@ Extended the retrieval system with a GraphRAG layer using spaCy NER and NetworkX
 
 ### [RoboJEC](https://github.com/dixitdevarshi/RoboJEC)
 
-**Whisper · Claude · Speech Synthesis · Socket.IO · Python**
+`Whisper` `Claude` `Speech Synthesis` `Socket.IO` `Python`
 
 Real-time voice AI pipeline combining automatic speech recognition, dialogue generation, and speech synthesis.
 
-Reduced transcription latency from **20–30 seconds to 2–4 seconds** through pipeline optimization and faster-whisper integration, and developed an evaluation framework for response relevance and latency.
+Reduced transcription latency from **20–30 seconds → 2–4 seconds** through pipeline optimization and faster-whisper integration, and developed an evaluation framework for response relevance and latency.
 
 This work contributed to research published at **IEEE ICCCMLA 2025**.
 
@@ -72,7 +101,7 @@ This work contributed to research published at **IEEE ICCCMLA 2025**.
 
 Co-authored research on a voice-based conversational AI system, published in IEEE Xplore.
 
-[View publication](https://ieeexplore.ieee.org/document/11580747)
+**[View publication →](https://ieeexplore.ieee.org/document/11580747)**
 
 ---
 
@@ -102,9 +131,11 @@ Co-authored research on a voice-based conversational AI system, published in IEE
 
 ## Currently
 
-🎓 M.Sc. Intelligent Interactive Systems at **Universität Bielefeld**
+🎓 **M.Sc. Intelligent Interactive Systems**  
+Universität Bielefeld
 
-💼 Student Assistant at **Universität Bielefeld**
+💼 **Student Assistant**  
+Universität Bielefeld
 
 🔎 Open to **working student and internship opportunities in AI / ML in Germany**
 
@@ -112,14 +143,18 @@ Co-authored research on a voice-based conversational AI system, published in IEE
 
 ## Languages
 
-**English** · C1  
-**German** · B1.2  
-**Hindi** · Native
+| Language | Proficiency |
+| :--- | :--- |
+| English | C1 |
+| German | B1.2 |
+| Hindi | Native |
 
 ---
 
-## Contact
+## Get in touch
 
-**Portfolio:** [devarshi-portfolio-sepia.vercel.app](https://devarshi-portfolio-sepia.vercel.app/)  
-**LinkedIn:** [Devarshi Dixit](https://www.linkedin.com/in/devarshi-dixit010/)  
-**Email:** [devarshidixit01@gmail.com](mailto:devarshidixit01@gmail.com)
+[**Portfolio**](https://devarshi-portfolio-sepia.vercel.app/)
+&nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/devarshi-dixit010/)
+&nbsp;·&nbsp;
+[**Email**](mailto:devarshidixit01@gmail.com)
