@@ -1,41 +1,12 @@
-<h1 align="left">Devarshi Dixit</h1>
+# Hi, I'm Devarshi 👋
 
-<p>
-  <strong>AI / ML Engineer · M.Sc. Intelligent Interactive Systems</strong>
-</p>
+**AI / ML Engineer · M.Sc. Intelligent Interactive Systems**
 
-<p>
-  I build and evaluate AI systems with a focus on reliability,
-  measurable performance, and practical deployment.
-</p>
+I build and evaluate AI systems with a focus on **reliability, measurable performance, and practical deployment**.
 
-<p>
-  <a href="https://devarshi-portfolio-sepia.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/devarshi-dixit010/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:devarshidixit01@gmail.com">Email</a>
-</p>
+Currently pursuing my M.Sc. at Universität Bielefeld, with a B.Tech in AI and Data Science from Jabalpur Engineering College. My work spans computer vision, LLM systems, speech recognition, RAG, evaluation, and ML engineering.
 
-<br>
-
-<marquee behavior="scroll" direction="left" scrollamount="4">
-  PYTHON &nbsp;·&nbsp;
-  PYTORCH &nbsp;·&nbsp;
-  COMPUTER VISION &nbsp;·&nbsp;
-  LLM SYSTEMS &nbsp;·&nbsp;
-  RAG &nbsp;·&nbsp;
-  ASR &nbsp;·&nbsp;
-  EVALUATION &nbsp;·&nbsp;
-  FASTAPI &nbsp;·&nbsp;
-  MLOPS &nbsp;·&nbsp;
-  DOCKER &nbsp;·&nbsp;
-  POSTGRESQL &nbsp;·&nbsp;
-  PROMETHEUS &nbsp;·&nbsp;
-  GRAFANA
-</marquee>
-
-<br>
+[**Portfolio**](https://devarshi-portfolio-sepia.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/devarshi-dixit010/) · [**Email**](mailto:devarshidixit01@gmail.com)
 
 ---
 
@@ -74,7 +45,7 @@ Multilingual document-intelligence system combining retrieval, tool orchestratio
 Built a custom evaluation framework using a multilingual ground-truth benchmark:
 
 | Metric | Score |
-| :--- | ---: |
+| --- | ---: |
 | Faithfulness | **0.88** |
 | Context Precision | **1.00** |
 | Context Recall | **0.88** |
@@ -89,7 +60,7 @@ Extended the retrieval system with a GraphRAG layer using spaCy NER and NetworkX
 
 Real-time voice AI pipeline combining automatic speech recognition, dialogue generation, and speech synthesis.
 
-Reduced transcription latency from **20–30 seconds → 2–4 seconds** through pipeline optimization and faster-whisper integration, and developed an evaluation framework for response relevance and latency.
+Reduced transcription latency from **20–30 seconds to 2–4 seconds** through pipeline optimization and faster-whisper integration. Built a custom evaluation framework measuring response relevance and response latency.
 
 This work contributed to research published at **IEEE ICCCMLA 2025**.
 
@@ -101,60 +72,47 @@ This work contributed to research published at **IEEE ICCCMLA 2025**.
 
 Co-authored research on a voice-based conversational AI system, published in IEEE Xplore.
 
-**[View publication →](https://ieeexplore.ieee.org/document/11580747)**
+[**View publication →**](https://ieeexplore.ieee.org/document/11580747)
 
 ---
 
 ## Engineering Stack
 
-**Machine Learning & AI**
-
+**Machine Learning & AI**  
 `PyTorch` `scikit-learn` `Hugging Face` `XGBoost` `LightGBM` `spaCy` `Whisper`
 
-**LLMs & Retrieval**
-
+**LLMs & Retrieval**  
 `Claude API` `GPT-4` `Gemini` `LangChain` `LangGraph` `RAG` `ChromaDB`
 
-**Backend & Data**
+**Backend & Data**  
+`Python` `C++` `SQL` `FastAPI` `Flask` `PostgreSQL` `SQLAlchemy` `Pydantic`
 
-`Python` `FastAPI` `Flask` `PostgreSQL` `SQLAlchemy` `Pydantic` `SQL`
-
-**MLOps & Infrastructure**
-
+**MLOps & Infrastructure**  
 `Docker` `MLflow` `Prometheus` `Grafana` `GitHub Actions` `Linux` `pytest` `n8n`
 
-**Frontend**
-
+**Frontend**  
 `React` `Vite` `Tailwind CSS`
 
 ---
 
 ## Currently
 
-🎓 **M.Sc. Intelligent Interactive Systems**  
-Universität Bielefeld
+🎓 **M.Sc. Intelligent Interactive Systems** · Universität Bielefeld
 
-💼 **Student Assistant**  
-Universität Bielefeld
+💼 **Student Assistant** · Universität Bielefeld
 
-🔎 Open to **working student and internship opportunities in AI / ML in Germany**
+🔎 Open to **working student and internship opportunities in AI / ML**
 
 ---
 
 ## Languages
 
-| Language | Proficiency |
-| :--- | :--- |
-| English | C1 |
-| German | B1.2 |
-| Hindi | Native |
+**English** · C1  
+**German** · B1.2  
+**Hindi** · Native
 
 ---
 
 ## Get in touch
 
-[**Portfolio**](https://devarshi-portfolio-sepia.vercel.app/)
-&nbsp;·&nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/devarshi-dixit010/)
-&nbsp;·&nbsp;
-[**Email**](mailto:devarshidixit01@gmail.com)
+[**Portfolio**](https://devarshi-portfolio-sepia.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/devarshi-dixit010/) · [**Email**](mailto:devarshidixit01@gmail.com)
