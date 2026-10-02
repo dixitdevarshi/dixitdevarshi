@@ -1,4 +1,4 @@
-# Hi, I'm Devarshi 👋
+# Hi, I'm Devarshi 🙋🏻‍♂️
 
 **AI / ML Engineer · M.Sc. Intelligent Interactive Systems**
 
