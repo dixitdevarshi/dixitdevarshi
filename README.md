@@ -8,32 +8,13 @@ I build AI systems end to end, from training and evaluation to deployment and mo
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/dixitdevarshi/ai-ticket-triage">
-<img src="./assets/project-1.svg" width="100%" alt="AI Ticket Triage">
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/dixitdevarshi/visual-anomaly-detection">
-<img src="./assets/project-2.svg" width="100%" alt="Visual Anomaly Detection">
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/dixitdevarshi/PaperMind">
-<img src="./assets/project-3.svg" width="100%" alt="PaperMind">
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/dixitdevarshi/RoboJEC">
-<img src="./assets/project-4.svg" width="100%" alt="RoboJEC">
-</a>
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/dixitdevarshi/ai-ticket-triage"><img src="./assets/project-1.svg" width="49%" alt="AI Ticket Triage"></a>
+<a href="https://github.com/dixitdevarshi/visual-anomaly-detection"><img src="./assets/project-2.svg" width="49%" alt="Visual Anomaly Detection"></a>
+<br>
+<a href="https://github.com/dixitdevarshi/PaperMind"><img src="./assets/project-3.svg" width="49%" alt="PaperMind"></a>
+<a href="https://github.com/dixitdevarshi/RoboJEC"><img src="./assets/project-4.svg" width="49%" alt="RoboJEC"></a>
+</div>
 
 ## Tech Stack
 
