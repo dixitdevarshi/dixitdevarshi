@@ -1,29 +1,56 @@
-<div align="center">
+# Hi, I'm Devarshi 👋
 
-### `devarshi@github:~$ whoami`
+M.Sc. student in **Intelligent Interactive Systems at Universität Bielefeld** with a background in Artificial Intelligence and Data Science.
 
-<table><tr><td valign="top"><img src="./assets/devarshi-ascii.svg" width="390"></td><td valign="top"><img src="./assets/info-card.svg" width="560"></td></tr></table>
+I build AI systems end to end, from training and evaluation to deployment and monitoring. I care about systems that work outside notebooks, produce outputs people can trust, and make failures measurable. Co-author at **IEEE ICCCMLA 2025**.
 
-</div>
+**[Portfolio →](https://devarshi-portfolio-sepia.vercel.app/)**
 
-### `devarshi@github:~$ ./projects.sh`
+## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[AI Ticket Triage](https://github.com/dixitdevarshi/ai-ticket-triage)** | Support-ticket classification, urgency evaluation, human review and monitoring. **Urgency accuracy: 64% → 84%.** | `Claude API` `FastAPI` `n8n` `PostgreSQL` `React` |
-| **[Visual Anomaly Detection](https://github.com/dixitdevarshi/visual-anomaly-detection)** | Unsupervised industrial defect detection with spatial localization. **0.9781 mean AUROC across MVTec AD.** | `DINOv2` `PatchCore` `PyTorch` `MLflow` |
-| **[PaperMind](https://github.com/dixitdevarshi/PaperMind)** | Multilingual RAG and document intelligence with custom evaluation. | `LangChain` `RAG` `FastAPI` `Prometheus` |
-| **[RoboJEC](https://github.com/dixitdevarshi/RoboJEC)** | Real-time voice AI combining ASR, dialogue generation and speech synthesis. | `Whisper` `Claude` `Socket.IO` `Python` |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/dixitdevarshi/ai-ticket-triage">
+<img src="./assets/project-1.svg" width="100%" alt="AI Ticket Triage">
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/dixitdevarshi/visual-anomaly-detection">
+<img src="./assets/project-2.svg" width="100%" alt="Visual Anomaly Detection">
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/dixitdevarshi/PaperMind">
+<img src="./assets/project-3.svg" width="100%" alt="PaperMind">
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/dixitdevarshi/RoboJEC">
+<img src="./assets/project-4.svg" width="100%" alt="RoboJEC">
+</a>
+</td>
+</tr>
+</table>
 
-### `devarshi@github:~$ ./contributions.sh`
+## Tech Stack
 
-<div align="center"><img src="./contrib-heatmap.svg" width="900"></div>
+**AI / ML:** PyTorch · scikit-learn · Hugging Face Transformers · DINOv2 · PatchCore · spaCy  
+**LLM / NLP:** Claude API · LangChain · RAG · prompt engineering · multilingual NLP  
+**Engineering:** Python · FastAPI · PostgreSQL · Docker · GitHub Actions · pytest  
+**Systems:** React · n8n · Prometheus · Grafana · MLflow · REST APIs
+
+## Research
+
+**Intelligent Conversational Brain RoboJEC**  
+Co-author · IEEE ICCCMLA 2025 · **[View publication →](https://ieeexplore.ieee.org/document/11580747)**
 
 ---
-<div align="center">
 
-**AI / ML Engineer · M.Sc. Intelligent Interactive Systems**
-
-[Portfolio](https://devarshi-portfolio-sepia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devarshi-dixit010/) · [Email](mailto:devarshidixit01@gmail.com)
-
-</div>
+<p align="center">
+<a href="https://devarshi-portfolio-sepia.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/devarshi-dixit010/">LinkedIn</a> ·
+<a href="mailto:devarshidixit01@gmail.com">Email</a>
+</p>
