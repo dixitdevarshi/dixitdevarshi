@@ -15,6 +15,9 @@ I build AI systems end to end, from training and evaluation to deployment and mo
 <a href="https://github.com/dixitdevarshi/PaperMind"><img src="./assets/project-3.svg" width="49%" alt="PaperMind"></a>
 <a href="https://github.com/dixitdevarshi/RoboJEC"><img src="./assets/project-4.svg" width="49%" alt="RoboJEC"></a>
 </div>
+<p align="right">
+<a href="https://github.com/dixitdevarshi?tab=repositories">View all repositories →</a>
+</p>
 
 ## Tech Stack
 
