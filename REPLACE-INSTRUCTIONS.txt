@@ -1,0 +1,17 @@
+Replace these in your existing repo:
+assets/devarshi-ascii.svg
+scripts/fetch_contributions.py
+scripts/render_heatmap_svg.py
+scripts/requirements.txt
+.github/workflows/update-profile-art.yml
+contrib-heatmap.svg
+
+Do NOT replace README.md or assets/info-card.svg.
+
+Then:
+git add .
+git commit -m "Add original-style profile animations"
+git push origin main
+
+After push:
+GitHub -> dixitdevarshi repo -> Actions -> Update profile contributions -> Run workflow
