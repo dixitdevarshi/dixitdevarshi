@@ -6,7 +6,7 @@ I build AI systems end to end, from training and evaluation to deployment and mo
 
 **[Portfolio →](https://devarshi-portfolio-sepia.vercel.app/)**
 
-## Projects
+## Featured Projects
 
 <div align="center">
 <a href="https://github.com/dixitdevarshi/ai-ticket-triage"><img src="./assets/project-1.svg" width="49%" alt="AI Ticket Triage"></a>
@@ -19,7 +19,7 @@ I build AI systems end to end, from training and evaluation to deployment and mo
 <a href="https://github.com/dixitdevarshi?tab=repositories">View all repositories →</a>
 </p>
 
-## Tech Stack
+## Tools I Work With
 
 ### AI / ML
 
@@ -62,7 +62,7 @@ I build AI systems end to end, from training and evaluation to deployment and mo
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-## Research
+## Research & Publication
 
 **Intelligent Conversational Brain RoboJEC**  
 Co-author · IEEE ICCCMLA 2025 · **[View publication →](https://ieeexplore.ieee.org/document/11580747)**
